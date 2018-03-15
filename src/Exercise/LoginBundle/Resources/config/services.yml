@@ -1,0 +1,4 @@
+services:
+#    exercise_login.example:
+#        class: Exercise\LoginBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
