@@ -1,1 +1,7 @@
 php bin/console server:run
+
+composer install -> Instala paquetes configurados en el json de la app
+( regularmente usado en proyectos alojados en git, mismos que ignoran las librerias de terceros)
+
+Encoder password Util:
+php bin/console security:encode-password

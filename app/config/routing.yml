@@ -1,7 +1,4 @@
-exercise_login:
-    resource: "@ExerciseLoginBundle/Controller/"
-    type:     annotation
-    prefix:   /
+
 
 app:
     resource: "@AppBundle/Controller/"
